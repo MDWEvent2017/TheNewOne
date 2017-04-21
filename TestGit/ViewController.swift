@@ -25,6 +25,11 @@ class ViewController: UIViewController {
         
         print("Hello GitHub")
     }
+    
+    
+    func sayHelloFromMyFriend() {
+        print("Hello from friend")
+    }
 
 
 }
